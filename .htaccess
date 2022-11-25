@@ -1,0 +1,6 @@
+# enable basic rewriting
+RewriteEngine On
+
+DirectoryIndex challenges.php
+
+RedirectMatch 404 /\.git
