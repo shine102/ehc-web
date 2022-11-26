@@ -146,7 +146,8 @@ INSERT INTO `users` (`id`, `username`, `password`, `score`) VALUES
 (37, 'team_37', 'a97d5caa85c903480f3585adc1656c4087ca55a75b9f60eba3f17cc4aa134808', 0),
 (38, 'team_38', '5d2dcd9020c572826a3b863bec150fa7cb441d0a3dbc62bda18178b005cb4f89', 0),
 (39, 'team_39', 'f12879d97eff5e7c98e682ae1b31a95858f0bc6bcc5ef4cf789c607e0e5ceea1', 0),
-(40, 'team_40', '2e1f55af88b7d87f0a2d97f04b9dfd96fbfc7adc48e59e16446420ce75dd2fe3', 0);
+(40, 'team_40', '2e1f55af88b7d87f0a2d97f04b9dfd96fbfc7adc48e59e16446420ce75dd2fe3', 0),
+(41, 'admin', '8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918', 0);
 
 --
 -- Indexes for dumped tables
